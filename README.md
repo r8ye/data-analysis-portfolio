@@ -9,13 +9,17 @@ Computer Science student with hands-on experience in SQL, Excel, Power BI, and T
 Currently seeking internship opportunities in:
 
 Data Analytics
+
 Business Intelligence
+
 IT Business Analysis
+
 Data Visualization
 
 ## Technical Skills
 
 Data Analytics:
+
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - KPI Development
@@ -23,6 +27,7 @@ Data Analytics:
 - Data Visualization
   
 Tools & Technologies:
+
 - SQL
 - Microsoft Excel
 - Power BI
@@ -31,7 +36,7 @@ Tools & Technologies:
 
 ## Projects
 
-1. PNPAQ HR & Retention Analysis Dashboard
+### 1. PNPAQ HR & Retention Analysis Dashboard
 
 Link: https://github.com/r8ye/pnrao-hr-retention-dashboard.git
 
@@ -52,11 +57,12 @@ Key Achievements:
     - Tenure distribution
       
 Business Impact:
+
 Provided workforce insights that could support employee retention strategies and departmental performance monitoring.
 
 
 
-2. E-Commerce Sales & Profitability Dashboard
+### 2. E-Commerce Sales & Profitability Dashboard
 
 Link: https://github.com/r8ye/e-commerce-sales-profitability-dashboard.git
 
@@ -67,6 +73,7 @@ Project Overview
 Developed an interactive dashboard to analyze sales performance, revenue growth, profitability, and product trends.
 
 Key Achievements:
+
 - Analyzed over 1,000 sales records
 - Measured:
     - Revenue
@@ -80,27 +87,35 @@ Key Achievements:
 - Built executive KPI cards and visual reports
 
 Business Impact:
+
 Highlighted high-performing products and periods to support inventory and marketing decisions.
 
 ## Certifications
 
 ▪	Forage Job Simulation - Tata Data Visualization: Empowering Business with Effective Insights Job Simulation
+
 Completed a simulation involving creating data visualizations for Tata Consultancy Service.
 
 ▪	Cisco - Data Science Essentials with Python
+
 Learned basic Python for data analysis with Pandas and Matplotlib.
 
 ▪	Cisco - Introduction to Data Science 
+
 Developed foundational expertise in data science with a focus on interpreting complex datasets.
 
 ▪	Cisco - Data Analytics Essentials
+
 Used SQL and Excel to process and visualize datasets, improving data reporting efficiency
 
 ## Education
 
 Bachelor of Science in Computer Science
+
 The Fisher Valley College, Inc.
+
 Taguig City, PH
+
 2023 – 2027
 
 ## Connect With Me
