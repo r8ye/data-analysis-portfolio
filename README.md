@@ -1,6 +1,6 @@
 # Rachelle Fraga - Data Analyst Portfolio
 
-### About
+## About
 
 Aspiring Data Analyst | Business Intelligence Analyst | IT Business Analyst
 
@@ -13,7 +13,7 @@ Business Intelligence
 IT Business Analysis
 Data Visualization
 
-### Technical Skills
+## Technical Skills
 
 Data Analytics:
 - Data Cleaning
@@ -29,9 +29,10 @@ Tools & Technologies:
 - Tableau
 - GitHub
 
-### Projects
+## Projects
 
 1. PNPAQ HR & Retention Analysis Dashboard
+
 Link: https://github.com/r8ye/pnrao-hr-retention-dashboard.git
 
 Tools: MySQL, Excel, Power BI
@@ -54,7 +55,9 @@ Business Impact:
 Provided workforce insights that could support employee retention strategies and departmental performance monitoring.
 
 
+
 2. E-Commerce Sales & Profitability Dashboard
+
 Link: https://github.com/r8ye/e-commerce-sales-profitability-dashboard.git
 
 Tools: Excel, Power BI
@@ -79,7 +82,7 @@ Key Achievements:
 Business Impact:
 Highlighted high-performing products and periods to support inventory and marketing decisions.
 
-### Certifications
+## Certifications
 
 ▪	Forage Job Simulation - Tata Data Visualization: Empowering Business with Effective Insights Job Simulation
 Completed a simulation involving creating data visualizations for Tata Consultancy Service.
@@ -93,14 +96,14 @@ Developed foundational expertise in data science with a focus on interpreting co
 ▪	Cisco - Data Analytics Essentials
 Used SQL and Excel to process and visualize datasets, improving data reporting efficiency
 
-### Education
+## Education
 
 Bachelor of Science in Computer Science
 The Fisher Valley College, Inc.
 Taguig City, PH
 2023 – 2027
 
-### Connect With Me
+## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/rachelle-fraga/
 
