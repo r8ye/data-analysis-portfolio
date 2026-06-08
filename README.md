@@ -32,6 +32,7 @@ Tools & Technologies:
 ### Projects
 
 1. PNPAQ HR & Retention Analysis Dashboard
+Link: https://github.com/r8ye/pnrao-hr-retention-dashboard.git
 
 Tools: MySQL, Excel, Power BI
 
@@ -54,6 +55,7 @@ Provided workforce insights that could support employee retention strategies and
 
 
 2. E-Commerce Sales & Profitability Dashboard
+Link: https://github.com/r8ye/e-commerce-sales-profitability-dashboard.git
 
 Tools: Excel, Power BI
 
@@ -101,4 +103,5 @@ Taguig City, PH
 ### Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/rachelle-fraga/
+
 Email: contact.rachellefraga@gmail.com
