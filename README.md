@@ -8,13 +8,9 @@ Computer Science student with hands-on experience in SQL, Excel, Power BI, and T
 
 Currently seeking internship opportunities in:
 
-Data Analytics
-
-Business Intelligence
-
-IT Business Analysis
-
-Data Visualization
+- Data Analytics
+- Business Intelligence
+- IT Business Analysis
 
 ## Technical Skills
 
