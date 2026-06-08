@@ -2,8 +2,6 @@
 
 ## About
 
-Aspiring Data Analyst | Business Intelligence Analyst | IT Business Analyst
-
 Computer Science student with hands-on experience in SQL, Excel, Power BI, and Tableau. Passionate about transforming raw data into actionable insights through data cleaning, analysis, visualization, and dashboard development.
 
 Currently seeking internship opportunities in:
